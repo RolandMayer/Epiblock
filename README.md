@@ -1,5 +1,5 @@
 <meta name="google-site-verification" content="" />
-### Epiblock - Modified and Extended Adremoval for Chrome
+Epiblock - Modified and Extended Adremoval for Chrome
 
 Features:
 - Based on Adblock Chrome 1.1.5.7
