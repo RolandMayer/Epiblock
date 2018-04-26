@@ -12,3 +12,5 @@ Features:
 - Accetable Ads Removed
 
 Version: 1.0.0.1-Beta
+
+[Privacy Policy](https://rolandmayer.github.io/Epiblock/PrivacyPolicy "Privacy Policy")
